@@ -1,2 +1,2 @@
-# debug-error
+# Debug-error
 Tratamento de erros

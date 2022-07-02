@@ -1,2 +1,2 @@
 # Debug-error
-Tratamento de erros
+Validação de erros por tipo
